@@ -67,13 +67,6 @@ Sans clés, l'application fonctionne quand même : l'analyse des phrases se fait
 ### 4. Lancer
 Ouvrir le projet dans Android Studio, attendre la synchronisation Gradle, puis cliquer sur **Run**.
 
-## Pistes d'amélioration
-
-- Régler les règles de sécurité Firestore pour que chaque utilisateur n'accède qu'à ses propres données.
-- Ajouter des budgets mensuels par catégorie avec alertes.
-- Ajouter la saisie vocale ou la lecture de tickets par photo.
-- Écrire des tests unitaires pour l'analyse des phrases.
-
 ## Auteur
 
 Kawthar Derouich
